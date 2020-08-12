@@ -1,8 +1,3 @@
-# Linux_Build_Systems
-Learing about GCC, make, CMake, Library(static/shared) for Linux Build Systems
-> 개요
-- 이 리포는 "김수현" 강사님의 2020.08.10 ~ 11까지 이틀간 "오픈소스 빌드 시스템의 이해" 강좌 수강하며 얻은 insight/knowledge 를 공유하기위해 제작되었습니다.
-
 # 수업 2교시
 - 생각 해 보세요 왜 리눅스-윈도우 공유폴더에서 빌드 하면 안되는지
   - 권한? 소유자 소유그룹 퍼미션 문제입니까?
